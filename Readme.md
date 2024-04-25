@@ -10,7 +10,7 @@ Bu proje, Mars'ta yerleşik evlerin satışını yapmak için bir web sitesi olu
 
 ## Kullanım
 
-1. Web tarayıcınızda `http://127.0.0.1:5500/pages/homepage.html` adresine gidin.
+1. Web tarayıcınızda `http://127.0.0.1:5500/pages/../index.html` adresine gidin.
 2. Ana sayfada mevcut evlerin listesini görüntüleyin.
 3. İlgilendiğiniz evlere tıklayarak ayrıntıları ve resimleri görüntüleyin.
 4. Ev satın almak için iletişim bilgileri aracılığıyla satıcı ile iletişime geçin.
